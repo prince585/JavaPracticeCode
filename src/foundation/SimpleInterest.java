@@ -1,6 +1,6 @@
 package foundation;
 import java.util.Scanner;
-public class fol {
+public class SimpleInterest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("this is a calculater program for si ");

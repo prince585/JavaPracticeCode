@@ -31,19 +31,20 @@ public class proc {
         // else {
         //     System.out.println("lesser than 10");
         // }
-        int v = 1;
-        while (v <= 10){
-            System.out.println(v);
-            v = v + 1;
-        };
-        System.out.println("enter the word");
-        String n = input.next();
-        System.out.println("times to print");
-        int l = input.nextInt();
-        while (0 < l){
-            System.out.println(n);
-            l = l - 1;
-        }
+        // int v = 1;
+        // while (v <= 10){
+        //     System.out.println(v);
+        //     v = v + 1;
+        // };
+        // System.out.println("enter the word");
+        // String n = input.next();
+        // System.out.println("times to print");
+        // int l = input.nextInt();
+        // while (0 < l){
+        //     System.out.println(n);
+        //     l = l - 1;
+        // }
+        
         input.close();
     }
 }

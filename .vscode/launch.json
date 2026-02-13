@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "leetcode",
+            "request": "launch",
+            "mainClass": "foundation.leetcode",
+            "projectName": "Practice_f661834a"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
