@@ -1,7 +1,7 @@
 package foundation;
 import java.util.*;
 public class proc {
-    public static void main(String[] args) {
+    public  void proct() {
         Scanner input = new Scanner(System.in);
         // System.out.println("enter any number to check if its even or odd");
         // float n = input.nextFloat();

@@ -1,7 +1,7 @@
 package foundation;
 
 public class firstclass {
-    public static void main(String[] args) {
+    public void fc() {
         System.out.println("Hello World");
         // This is a comment
         int n = 10;
