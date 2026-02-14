@@ -1,4 +1,4 @@
-package foundation;
+package com.myPractice;
 import java.util.*;
 public class proc {
     public  void proct() {

@@ -1,4 +1,4 @@
-package foundation;
+package com.myPractice;
 import java.util.Scanner;
 public class SimpleInterest {
     public static void main(String[] args) {
