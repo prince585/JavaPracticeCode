@@ -1,4 +1,4 @@
-package foundation;
+package com.myPractice;
 
 public class firstclass {
     public void fc() {
