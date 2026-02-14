@@ -1,7 +1,7 @@
 package com.myPractice;
-import java.util.Scanner;
+        import java.util.Scanner;
 public class leetcode {
-    public void leet() {
+    public void leet(int N) {
             Scanner scan = new Scanner(System.in);
             // int i = scan.nextInt();
             // double d = scan.nextDouble();
@@ -14,7 +14,6 @@ public class leetcode {
             // System.out.println("String: " + s);
             // System.out.println("Double: " + d);
             // System.out.println("Int: " + i);
-                int N = scan.nextInt();
         int i = 1;
         while(i <= 10){
             System.out.println(N + " x " + i + " = " + (N*i));
